@@ -1,0 +1,14 @@
+files here
+-brand pillars
+-website copy
+-Googgle business profile
+--services
+-Social media bios
+--facebook
+--instagram
+--tiktok
+--youtube
+-link in bio
+-brochures
+-campaigns
+-campaign messages
