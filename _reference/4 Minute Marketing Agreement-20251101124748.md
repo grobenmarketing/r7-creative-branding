@@ -1,0 +1,197 @@
+# 4 Minute Marketing Agreement
+
+Link: [https://r7agreement.netlify.app/](https://r7agreement.netlify.app/)
+* * *
+# R7 Creative Service Agreement
+**Human Touch Marketing in an AI & Automated World**
+* * *
+## Company Information
+**Service Provider:** R7 Creative (DBA of Groben Marketing LLC)
+**Address:** 44 Maine St, Ashland, Ohio 44805
+**Contact:** (567) 333-8779 | [hello@grobenmarketing.com](mailto:hello@grobenmarketing.com)
+**Website:**[r7creative.com](http://r7creative.com)
+* * *
+## Your Service Package Options
+R7 Creative provides collaborative social media content strategy, creation, and management services through our "You Capture, We Create" system. This approach combines your authentic business moments with our professional editing, strategy, and posting expertise to build trust and visibility with potential customers during their critical 4-minute decision window.
+### Founder's Pricing Special: $0 Implementation Fee!
+This Agreement covers both service package options below. Your selected package will be specified on the invoice you receive within 24 hours of signing. The terms, conditions, and responsibilities outlined in this Agreement apply to whichever package you choose.
+* * *
+### 4-Minute Winner Package
+**FOUNDER'S PRICING**
+**Price:** ~~$1,200~~ **$550/month**
+Perfect for businesses ready to dominate Google Business Search
+#### Features:
+*   **2 posts per week** (104 pieces of content annually)
+*   **Google Business Profile only**
+*   Content planning with assigned capture dates
+*   Professional editing, captions, and scheduling
+*   Strategic brand voice development
+*   Asset library management and content repurposing
+*   Bi-weekly strategy calls to plan content
+*   Monthly performance analytics
+*   Engagement management (review responses, comments)
+*   Google Business Profile optimization
+**\+ $0 implementation fee** ~~(reg. $600)~~
+**Your time:** 10-20 minutes/week capturing content
+* * *
+### 4-Minute Dominator Package
+**MOST POPULAR** | **FOUNDER'S PRICING**
+**Price:** ~~$1,800~~ **$950/month**
+Everything in Winner PLUS full social media domination
+#### Features:
+*   **3 posts per week** (156 pieces of content annually)
+*   **ALL platforms:** Google Business, Facebook, Instagram & more
+*   Content planning with assigned capture dates
+*   Professional editing, captions, and scheduling
+*   Strategic brand voice development
+*   Asset library management and content repurposing
+*   Advanced social media strategy coordinated across all platforms
+*   Bi-weekly strategy calls to plan content
+*   Monthly performance analytics
+*   **Quarterly strategy sessions** for deep-dive analysis
+*   Engagement management across all platforms
+*   Profile optimization across all platforms
+*   **Link-in-bio page:** Mobile-optimized conversion hub
+**\+ $0 implementation fee** ~~(reg. $600)~~
+**Your time:** 10-20 minutes/week capturing content
+* * *
+### Results Our Clients Experience:
+*   **25-50%** More phone calls
+*   **35-70%** More website clicks
+*   **15-30%** Less price resistance
+*   **2.7x** More trustworthy
+**Important Disclaimer:** These results represent typical outcomes from our client base but are not guaranteed. Individual results depend on multiple factors including industry, competition, content quality, client participation, and market conditions.
+* * *
+## How "You Capture, We Create" Works
+Our proven weekly workflow ensures consistent content delivery:
+### 1\. Bi-Weekly Strategy Call (Monday)
+15-minute planning session to assign next 6-8 content pieces with specific capture dates
+### 2\. You Capture Content (Throughout Week)
+Take 10-20 minutes per week to capture assigned content using your smartphone at planned location and time
+### 3\. Upload Deadline (Friday 7:00 PM)
+All captured content must be uploaded via JotForm by this deadline to be included in next week's editing cycle
+### 4\. Professional Editing (Monday-Tuesday)
+R7 Creative edits content, writes captions, and uploads to [Frame.io](http://Frame.io) for review by Tuesday noon
+### 5\. Client Review Period (Tuesday EOD - Wednesday 5:00 PM)
+Review content and captions via [Frame.io](http://Frame.io) shared link. Must provide feedback by Wednesday 5:00 PM. No feedback = automatic approval.
+### 6\. Revisions (If Requested - Thursday-Friday Noon)
+If you request revisions, we complete them by Friday noon
+### 7\. Scheduling & Publication (Friday Afternoon)
+Final approved content is uploaded to social platforms and scheduled for publication on planned dates
+* * *
+## Your Responsibilities - Collaborative Partnership
+Our "You Capture, We Create" system is designed as a true collaboration. Success requires active participation from both parties.
+### 1\. Content Capture & Upload
+*   Capture photo and video content at assigned dates, times, and locations as planned in strategy sessions
+*   Upload captured content through provided JotForm by **Friday 7:00 PM** of the capture week
+*   **Critical:** Content submitted after the Friday 7:00 PM deadline cannot be included in the following week's editing cycle and will be rescheduled
+### 2\. Strategy Session Participation
+*   Attend bi-weekly 15-minute strategy calls
+*   Provide input on content direction, brand messaging, and business priorities
+*   Communicate any changes to capture assignments or schedules
+### 3\. Content Review & Approval
+*   Review edited content provided via [Frame.io](http://Frame.io) shared link
+*   Provide feedback by **Wednesday 5:00 PM** of review week
+*   **Important:** If no feedback is received by Wednesday 5:00 PM deadline, content will be approved as-is and scheduled for publication
+### 4\. Platform Access & Credentials
+*   Provide administrative login credentials for Google Business Profile and all social media platforms
+*   Maintain current and accurate login information
+*   Notify R7 Creative immediately of any password changes or access issues
+* * *
+## Payment Terms
+### Implementation Fee
+A one-time implementation fee of $0 (regularly $600) is included FREE with Founder's Pricing. This fee covers initial account setup, platform optimization, brand voice development, strategy framework creation, and onboarding. You will receive an invoice via Wave within 24 hours of signing that specifies your selected package and total amount due.
+### Monthly Service Fee
+Monthly service fees are due on the 1st of each month. First month's service fee is due immediately upon signing along with the implementation fee. Your selected package (Winner or Dominator) will be specified on your invoice.
+### Service Commencement
+Services will commence upon receipt of implementation fee and first month's payment.
+### Late Payments
+Payments not received within five (5) days of the due date will result in suspension of services until payment is received. A late fee of $50 may be assessed for payments more than ten (10) days overdue.
+### Cancellation & Refund Policy
+This Agreement continues on a month-to-month basis with no long-term contract required. Either party may terminate with thirty (30) days written notice. The implementation fee is non-refundable once services have commenced. Monthly service fees are non-refundable but you may cancel with 30 days notice to avoid future charges.
+* * *
+## Content & Editing Standards
+### Platform Compliance Requirements
+**Google Business Profile has specific content requirements that we must follow:**
+*   Videos and photos cannot contain fancy transitions, motion effects, or excessive on-screen graphics
+*   Text overlays on photos or videos are prohibited unless they describe something happening at the business location
+*   Content must be authentic and representative of actual business operations
+*   We will not be pushed to violate these platform guidelines, as doing so risks account penalties or removal
+### Editing Style & Revision Policy
+*   **Editing Focus:** We create content in informational/educational style with minimal transitions, color grading, and effects to match what performs well on these platforms
+*   **One Round of Revisions:** You may request ONE minor revision per piece of content OR ONE revision to the caption (or complete caption rewrite)
+*   **After Revisions:** Once requested revisions are completed, content will be published as final
+*   **Iterative Improvement Process:** Content expectations and adjustments should be addressed in strategy sessions, not through endless editing rounds. We focus on consistent posting and improving content strategy over time, not perfectionism on individual pieces
+* * *
+## Limitation of Liability
+### IMPORTANT: Please read this section carefully
+**Administrative Access and Reasonable Care**
+You acknowledge that R7 Creative's team will have administrative access to your social media accounts and Google Business Profile to perform the services outlined in this Agreement. R7 Creative maintains professional standards and follows platform best practices to protect your accounts. However, you understand that social media management involves inherent risks associated with platform access.
+While we take every reasonable precaution, R7 Creative cannot guarantee against all technical errors, platform malfunctions, or unforeseen circumstances. By granting administrative access, you accept these inherent risks of digital services.
+In the unlikely event of an error, R7 Creative will work promptly to correct the issue and minimize any impact. Our liability for such errors is limited as specified in the "Maximum Liability Cap" section below.
+
+### Results and Expectations
+R7 Creative is committed to following industry best practices and creating high-quality content aligned with platform guidelines. While our clients typically experience positive results (as described in "Results Our Clients Experience"), individual outcomes vary based on numerous factors including your industry, local competition, market conditions, and overall business operations. We cannot guarantee specific metrics such as phone calls, website clicks, or revenue increases, as these depend on variables beyond content creation alone.
+### Maximum Liability Cap
+In no event shall R7 Creative's total liability to you for any and all claims arising from or related to this Agreement exceed the total amount paid by you to R7 Creative in the one (1) month immediately preceding the claim. This limitation applies regardless of the legal theory upon which the claim is based. At R7 Creative's sole discretion, any liability may be satisfied through credit toward future services rather than monetary payment.
+R7 Creative shall not be liable for any indirect, incidental, special, consequential, or punitive damages including but not limited to lost profits, lost revenue, lost business opportunities, damage to reputation, or loss of data, even if R7 Creative has been advised of the possibility of such damages.
+* * *
+## Platform Access and Account Security
+### Administrative Access Required
+You agree to provide R7 Creative with administrative login credentials for Google Business Profile and all social media platforms included in the selected service package. This access is necessary to perform content posting, engagement management, profile optimization, and analytics tracking.
+### Account Ownership
+You retain full ownership of all social media accounts and profiles. R7 Creative is granted access solely for the purpose of providing contracted services. You may revoke access at any time, understanding that doing so will prevent R7 Creative from fulfilling service obligations.
+### Security and Confidentiality
+R7 Creative will maintain the confidentiality of all login credentials and will not share access with any third parties except as necessary to provide services. You are responsible for maintaining backup access to all accounts and for updating R7 Creative promptly if credentials change.
+* * *
+## Intellectual Property and Content Ownership
+### Your Content Ownership
+You retain ownership of all original content provided to R7 Creative including raw photos, videos, and brand materials.
+### Edited Content and Captions
+Upon full payment of fees, you own the final edited content and captions created by R7 Creative. R7 Creative retains the right to use your content in portfolio, case studies, marketing materials, and testimonials unless you specifically request otherwise in writing.
+### Process and Systems
+R7 Creative retains all rights to its proprietary processes, systems, workflows, templates, and methodologies including the "You Capture, We Create" system.
+* * *
+## Termination
+### Termination for Convenience
+Either party may terminate this Agreement with thirty (30) days written notice for any reason. Written notice must be sent via email to [hello@grobenmarketing.com](mailto:hello@grobenmarketing.com) or via certified mail to R7 Creative's business address.
+### Termination for Cause
+Either party may terminate immediately for cause upon written notice if the other party:
+*   Materially breaches this Agreement and fails to cure within ten (10) days of written notice
+*   Engages in fraudulent or illegal activity
+*   Files for bankruptcy or becomes insolvent
+### Effects of Termination
+Upon termination, you must immediately pay all outstanding fees for services rendered through the termination date. R7 Creative will complete any content already in production and will provide you with all final files. Your administrative access credentials will remain with you. R7 Creative will delete all login credentials from its systems.
+* * *
+## General Provisions
+### Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of Ohio, without regard to its conflict of law provisions. Any legal action related to this Agreement must be brought in the state or federal courts located in Ashland County, Ohio.
+### Entire Agreement
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations, understandings, and agreements between the parties relating to the subject matter hereof.
+### Amendments
+This Agreement may only be amended or modified by a written document signed by both parties. No oral modifications shall be effective.
+### Severability
+If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect, and the invalid provision shall be modified to the minimum extent necessary to make it valid and enforceable.
+### Independent Contractor
+R7 Creative is an independent contractor and not an employee, partner, or joint venturer of yours. Nothing in this Agreement creates an employment, partnership, or agency relationship.
+### Confidentiality
+Both parties agree to maintain confidentiality of any proprietary or sensitive information shared during the course of this business relationship including but not limited to business strategies, financial information, customer data, login credentials, and trade secrets. This obligation survives termination of this Agreement for a period of two (2) years.
+* * *
+## Client Acknowledgment & Signature
+### By signing this agreement, you acknowledge and confirm:
+*   I have read and understand this entire Service Agreement
+*   I understand the Limitation of Liability provisions including that R7 Creative is not liable for actions of its employees or contractors with administrative access to my accounts
+*   I understand there are no guaranteed outcomes or results from these services
+*   I understand my responsibilities including content capture, timely uploads, strategy session attendance, and review period participation
+*   I understand the revision policy allows ONE round of revisions per content piece
+*   I understand editing is focused on informational/educational content style and R7 Creative is not a full-service video production company
+*   I understand I can cancel with 30 days written notice and will remain responsible for payment through the notice period
+*   I understand payment is due immediately upon signing and I will receive an invoice via Wave within 24 hours
+*   I have the authority to enter into this Agreement on behalf of my business
+*   All information provided in this Agreement is accurate and complete
+* * *
+**R7 Creative - A DBA of Groben Marketing LLC**
+44 Maine St, Ashland, Ohio 44805
+
+(567) 333-8779 | [hello@grobenmarketing.com](mailto:hello@grobenmarketing.com) | [r7creative.com](http://r7creative.com)
+_Human Touch Marketing in an AI & Automated World_
