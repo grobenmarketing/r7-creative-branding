@@ -9,13 +9,13 @@
 
 **R7 Creative: We Keep You in the 4-Minute Decision**
 
-We transform invisible local service businesses into visible, lead-generating machines by managing your digital pulse during the critical 4-minute window when urgent customers decide who to call. While competitors focus on generic social media management, we ensure you survive the browser tab test with recent, authentic proof of active work—turning invisible losses into phone calls.
+We transform invisible local service businesses into visible, lead-generating machines by managing your digital pulse during the critical 4-minute window when customers decide who to call. While competitors focus on an array of unfocused mareketing playbooks, we ensure you survive the browser tab test with recent, authentic proof of active work—turning invisible losses into phone calls.
 
 ---
 
 ## The Market Reality
 
-Every day, thousands of potential customers face an urgent problem and spend exactly 4 minutes deciding who to call. They open 5 businesses on Google Maps, check social media for signs of life, and eliminate 3 based on dead profiles. Only 2 businesses get the callback. **80% of businesses fail this test daily and never even know it happened.**
+Every day, hundreds of potential customers search for a service provider to solver their problem and spend less than 4 minutes deciding who to call. For example, they open 5 businesses on Google Maps, do a quick gut check on the website, then check social media for signs of life, and eliminate 3 based on dead digital profiles and properties. On average, only 1 or 2 businesses get their call or email asking for help. **80% of businesses fail this test daily and never even know it happened.**
 
 ### The Customer Journey (The "John Story")
 
@@ -24,7 +24,7 @@ Every day, thousands of potential customers face an urgent problem and spend exa
 **Act 1: The Trigger (30 seconds)**
 - Boss drops urgent problem on John's desk
 - Needs solution provider NOW
-- 4 minutes until lunch to figure this out
+- 4 minutes until lunch to figure this out (John's not missing lunch!)
 
 **Act 2: The Search (2 minutes)**
 - Google search → Maps results
@@ -32,9 +32,9 @@ Every day, thousands of potential customers face an urgent problem and spend exa
 - Control-clicks through tabs rapidly
 
 **Act 3: The Elimination (90 seconds)**
-- Checks social profiles for signs of life
-- Dead profiles = closed browser tabs
-- Active profiles = worth investigating
+- Checks properties (Google Business Profile, website and social profiles) for signs of life
+- Dead properties = closed browser tabs
+- Active properties = worth calling
 
 **Act 4: The Decision (30 seconds)**
 - Down to 2 businesses that "feel right"
@@ -49,31 +49,36 @@ Every day, thousands of potential customers face an urgent problem and spend exa
 
 ### 1. We Don't "Manage Social Media"—We Manage Your Digital Pulse
 
-During critical decision moments through our proprietary **"You Capture, We Create"** system, we ensure:
-- Recent proof of active work
-- Authentic team and process visibility
-- Consistent presence across all 3 platforms customers check
+During vital decision moments through our proprietary **"You Capture, We Create"** system, we ensure:
+- Recent proof of active work (Google Business Profile, Social Media)
+- Authentic team and process visibility that build trust
+- Consistent signs of life across all search profiles and social media profiles customers check
 
 > **See:** [[02-unique-value-proposition|Unique Value Proposition]] for complete system details
 
 ### 2. Everything Flows from Your Brand Pillars
 
-Most agencies skip strategy or charge $2,000-$2,500 extra. We create a complete 6-part **Brand Pillars & Marketing Position document** for free as part of onboarding. Everything flows from this:
+Most agencies skip strategy or charge $1,500 extra. We create a complete 6-part **Brand Pillars & Marketing Position document** for free as part of onboarding. Everything flows from this:
 - Content strategy
 - Optimization priorities
 - Posting calendar
 - Messaging consistency
+- Website Copy
+- Ads
+- Captions
+- Print Media
+This super useful foundational copywriting piece will bring clarity to every piece of marketing content. 
 
 **No guesswork. Just systematic execution.**
 
 ### 3. Alignment Across the 4-Minute Decision Window
 
-We create alignment across **Google Business Profile → Social Media → Website** so customers see consistent proof you're:
+We create alignment across **Google Business Profile → Website → Social Media** so customers see consistent proof you're:
 - Active (not dead/closed)
 - Available (not too busy)
 - Legitimate (real people, real work)
 
-### 4. We Optimize for Decision-Making, Not Vanity Metrics
+### 4. We Optimize for Decision-Making, Not Feel-Good Metrics
 
 We don't chase:
 - Follower counts
@@ -97,16 +102,20 @@ We are **not** for everyone. We deliberately reject:
 We don't do:
 - "Just post to social for me"
 - "Just optimize my Google profile"
+- "Just make me a website"
+- "Just edit my video"
 - One-time projects without ongoing management
 
 We create complete, integrated systems that work because everything reinforces everything else.
 
 ### ❌ Businesses Not Ready to Shift Habits
 Our system requires clients to:
-- Capture 10-15% of content (photos/videos on phone)
-- Attend bi-weekly 20-minute strategy calls
+- Capture 10-20 minutes of content per week (photos/videos on phone)
+- Attend bi-weekly 30-minute strategy calls
 - Upload content by Friday 7 PM deadlines
 - Review and approve content by Wednesday 5 PM
+- Dedicate themselves to 2-3 months of hard work for organic leads
+- Maintain the presence of mind to work with us until we see results
 
 If you're not ready to shift these habits, we're not the right fit.
 
@@ -116,6 +125,8 @@ We're not competing on price. At $550-$950/month, we're:
 - Less expensive than full-service agencies ($3K-$10K/month)
 - Priced at the "value sweet spot" for proven ROI
 
+IMPORTANT: The above prices are Founders pricing availible to the first 15 clients only. Full price is $1200-$1800/month plus a $600 one time implementation fee. 
+
 **We're the option that actually works because it's systematic.**
 
 ### ❌ Violating Platform Guidelines for "Fancy" Content
@@ -123,8 +134,15 @@ Google Business Profile has strict rules:
 - No fancy transitions or motion effects in videos
 - No text overlays on photos (unless describing the business location)
 - Content must be authentic and representative of actual operations
+- Profile must be full and complete
+- Favors profiles with matching website content
+- Favors profiles with search and AI optimized websites
+- Favors profiles with weekly reviews and owner replies
+- Favors weekly posts
+- Favors weekly media uploads
 
 **We follow these rules** because violating them risks account penalties or removal.
+**Feed Google What it Wants**: Google rewards you with traffic.
 
 > **Reference:** [[../_reference/30 Day Trial-20251101124947|30 Day Trial Agreement]] — Content & Editing Standards section
 
@@ -135,18 +153,19 @@ Google Business Profile has strict rules:
 ### Financial Profile
 - **Annual Revenue:** $2-10M (sweet spot: $3M)
 - **Team Size:** 5-20 employees (sweet spot: 8 employees)
-- **Monthly Budget:** Able to invest $550-$950/month
+- **Monthly Budget:** Able to invest $550-$1800/month
 - **Business Stage:** Profitable but plateaued
 
 ### Current Situation
-- **Lead Flow:** Stuck at 1-2 calls/month (should be 3-4 calls/week)
-- **Visibility:** Pretty invisible online—dead social, incomplete Google profile, outdated website
-- **Urgency:** Finally recognizing that being invisible online is costing them **$20-50K+ quarterly** in lost opportunities
-- **Readiness:** Have the time, money, and urgency to invest in a proven system
+- **Lead Flow:** Stuck at low number of calls-emails/month (should be 4-5 times higher number of calls-emails/month)
+- **Visibility:** Pretty invisible online—dead social, incomplete Google profile, ineffective website, limited to no weekly engagement
+- **Urgency:** Finally recognizing that being invisible online is costing them **$10-45K+ quarterly** in lost opportunities
+- **Readiness:** Have the time (or staff), money, and urgency to invest in an effective system with demonstrated, proven results
 
 ### Industries
 Service businesses where customers search online before calling:
 - HVAC & Plumbing
+- Marketing
 - Electrical & Contractors
 - Roofing & Home Services
 - Commercial Services (cleaning, maintenance)
@@ -169,24 +188,31 @@ You're competing against:
    - DIY social media (gave up after 3 weeks)
    - Cheap freelancers (no strategy, no results)
    - Expensive agencies (thousands spent, no ROI)
+   - Website and Canva templates (no intention, not appealing)
+   - "Good enough" marketing message (Incomplete profiles, website copy that turns searchers off)
 
 2. **Skepticism About Effectiveness**
    - "My customers don't use social media"
    - "I get business without social media"
    - "This doesn't work for my industry"
    - "I tried this before and it didn't work"
+   - "I've never seen this work or hear about it working"
+   - "We're already trusted"
+   - "What we do is good enough"
 
 3. **Scattered Approaches**
    - Different freelancer for social
    - Different person for Google Business
    - Different agency for website
    - No integration = no results
+   - No central brand or marketing message authority (brand pillars)
 
 4. **Deeply Entrenched Beliefs**
    - "Online marketing is overhyped"
    - "This stuff doesn't work"
    - "I don't have time for this"
    - "Marketing is too expensive"
+   - "Every marketer I've used or talk to doesn't know what they're doing"
 
 ### How We Win
 
@@ -194,7 +220,7 @@ You're competing against:
 
 Month 1: First "I found you on Google" call
 Month 2-3: 1-2 calls/month → 3-4 calls/week
-Month 6+: Loyal long-term client because we proved what no one else could
+Month 5+: Loyal long-term client because we proved what no one else could
 
 > **Reference:** [[../_reference/The 4-Minute Decision_ Complete Market Position-20251101125013|Complete Market Position]] — Competitive Differentiation section
 
@@ -207,9 +233,14 @@ This positioning is based on:
 > **Interview Insight:** "I really help businesses that are invisible, become visible"
 > — [[brand-pillar-interview-transcript|Interview Transcript]], Q4
 
-Your integrated process (Google → Reviews → Website → Social as one system) shows how you're fundamentally different from competitors who treat these as separate services.
+Your integrated, managed process (Google → Reviews → Website → Social → Engagement as one system) shows how you're fundamentally different from competitors who treat these as separate services.
 
-The **4-Minute Decision framework** captures the urgency and psychology of how customers actually choose service providers in 2025.
+The **4-Minute Decision framework** captures the urgency and psychology of how customers actually choose service providers in 2025 and beyond.
+**AI ready and future-proof:** 
+- Local business search is insulated from the AI search take-over.
+- Website optimized with the right schema, front matter, and meta information for AI summaries/retrival and traditional search engines.
+- Signs of life on search profiles and social profiles by providing authentic photo and video media.
+- Engaement shows attentiveness agross Google Business reviews and social media reactions and comments.
 
 ---
 
@@ -222,9 +253,12 @@ The **4-Minute Decision framework** captures the urgency and psychology of how c
 - "Human Touch Marketing in an AI & Automated World"
 - "Digital Pulse Management During Critical Decision Moments"
 - "We Don't Manage Social Media—We Manage Your Digital Pulse"
+- Add another...
 
 ### Elevator Version
 "We help service businesses survive the 4-minute test when urgent customers decide who to call—ensuring you're one of the 2 who get called instead of one of the 3 who get eliminated in browser tabs."
+
+Add two variations...
 
 ---
 
