@@ -17,13 +17,13 @@ R7 Creative transforms invisible local service businesses into visible, lead-gen
 
 **Core Position:** "We Keep You in the 4-Minute Decision"
 
-We don't "manage social media"—we manage your **digital pulse** during critical decision moments. Every day, potential customers spend exactly 4 minutes deciding who to call. They open 5 businesses, eliminate 3 based on dead profiles, and call only 2. **80% of businesses fail this test daily and never know it happened.**
+We don't "manage social media"—we manage your **digital pulse** during critical decision moments. Every day, potential customers spend less than 4 minutes deciding who to call. They open 5 businesses, eliminate 3 based on dead properties (Google Search Profile, reviews, website, social profiles), and call only 1 or 2. **80% of businesses fail this test daily and never know it happened.**
 
 **Key Points:**
-- Digital Pulse Management vs. generic social media management
+- Digital Pulse Management vs. generic marketing management
 - 4-Minute Decision framework as core differentiation
 - Competing against skepticism & failed attempts, not other agencies
-- Target: $2-10M service businesses, 5-20 employees, plateaued at 1-2 calls/month
+- Target: $2-10M service businesses, 5-20 employees, plateaued at limited number of calls/month
 
 **→ [[01-brand-positioning|Read Full Pillar]]**
 
@@ -37,7 +37,7 @@ We don't "manage social media"—we manage your **digital pulse** during critica
 
 **4-Minute Winner** ($550/month)*
 - 2 posts/week, Google Business focus
-- Brand Pillars document (free $2,000-$2,500 value)
+- Brand Pillars document (free $1,500 value)
 - 30-day free trial
 
 **4-Minute Dominator** ($950/month)* ⭐ Most Popular
@@ -47,11 +47,11 @@ We don't "manage social media"—we manage your **digital pulse** during critica
 *Founders pricing for first 15 clients. Full price: $1200-$1800/month + $600 implementation fee.
 
 **What Makes Us Different:**
-1. Free Brand Pillars foundation (competitors charge $2K+)
+1. Free Brand Pillars foundation (competitors charge $1,500+)
 2. You do 10-15%, we do 85-90%
 3. Complete integrated approach (not fragmented)
-4. 30-day free trial (prove it works first)
-5. Results as a Service (not hours or features)
+4. 30-day trial at no cost (prove it works, see the process)
+5. Results as a Service (not hours or features or creative work)
 
 **Results:** 25-50% more calls, 35-70% more clicks, 15-30% less price resistance
 
@@ -72,13 +72,14 @@ We don't "manage social media"—we manage your **digital pulse** during critica
 **Current Situation:**
 - 1-2 calls/month (want 3-4 calls/week)
 - Calendar booking only 2-3 weeks out
-- Invisible online (dead social, incomplete Google profile)
-- "Day late and a dollar short" — hurting on money weekly
+- Invisible online (dead social, incomplete Google profile, ineffective website, low numner of reviews, poor online reputation)
+- "Day late and a dollar short" — hurting on money weekly, should have taken action long ago and they know it
 
 **Trigger Moments:**
 - Staff says "we need to get better at online"
 - Google themselves and see competitors instead
 - Calendar not booking past 3-6 weeks
+- Cringe at their website and other digital properties
 
 **→ [[03-target-market|Read Full Pillar]]**
 
@@ -88,13 +89,14 @@ We don't "manage social media"—we manage your **digital pulse** during critica
 
 **Core Problem:** The 4-Minute Elimination
 
-Local service businesses lose **$20-50K+ quarterly** because they're eliminated in 4 minutes by customers they never knew existed. The "Johns" of the world spend 4 minutes checking Google Business → Social → Website, eliminate 3 out of 5 businesses based on dead profiles, and call only 2.
+Local service businesses lose **$10-45K+ quarterly** because they're eliminated in 4 minutes by customers they never knew existed. The "Johns" of the world spend 4 minutes checking Google Business → Social → Website, eliminate 3 out of 5 businesses based on dead profiles, and call only 1 or 2.
 
 **Four Problems We Solve:**
 1. **Lost Opportunities:** 100 searches/month × 0 visibility = $50K-$300K lost annually
 2. **Trust Deficit Tax:** 20-30% choose competitors due to inactive profiles
 3. **Cascading Death Spiral:** Can't grow → can't hire → less time → fall further behind
 4. **Skepticism Trap:** Tried marketing before, convinced "it doesn't work"
+5. **Money Problems:** Wasted money on agency or freelancers before, no money to invest in "$6k" marketing contract (good news: no contracts, no commitment, manageble marketing spend with demonstrated/proven results)
 
 **Transformation Timeline:**
 - **Weeks 2-4:** First "I found you on Google" call
@@ -113,24 +115,25 @@ Local service businesses lose **$20-50K+ quarterly** because they're eliminated 
 - HVAC/plumbing/electrical/home services owner
 - $2-3M revenue, 8 employees
 - 40-55 years old
-- Mid-sized city with 3-5 local competitors
+- Mid-sized city with 5-8 local competitors
 
 **The Daily Reality:**
-- Calendar booking only 2-3 weeks out (keeps him up at night)
-- Getting 1-2 calls/month instead of 3-4 calls/week
+- Calendar booking only 1 month out (keeps him up at night)
+- Getting 3 calls/month instead of 3 calls/week
 - In a frenzy managing day-to-day operations
 - Knows he needs to grow but no time/capital to figure it out
+- Works hard, feels "falling behind" trying to get to the point where he can hire "someone to do marketing"
 
 **What He's Tried (& Failed):**
-- Hired sales guy, email blasts, referrals, word-of-mouth, DIY social, cheap agencies
+- Hired sales guy, email blasts, referrals, word-of-mouth, DIY social, cheap agencies, templates, freelancers or family
 
 **The Turning Point:**
-*"I should have spent the money and took the time to fix this years ago, but I didn't. Now, me not having enough business is catching up with me."*
+*"I should have spent the money and took the time to fix this months/years ago, but I didn't. Now, me not having enough business is catching up with me."*
 
 **Four-Stage Journey:**
-1. **Attention:** Show him the $50K+ invisible loss
+1. **Attention:** Show him the $$$ invisible loss
 2. **Proof:** First "found you on Google" call in 30 days
-3. **Relief:** 3-4 calls/week, calendar booking out 4-6 weeks
+3. **Relief:** 3-4 calls/week, calendar booking out 8 weeks
 4. **Loyalty:** Becomes advocate because we proved what no one else could
 
 **→ [[05-customer-avatar|Read Full Pillar]]**
@@ -146,14 +149,14 @@ Your next customer will decide on you in 4 minutes—not because of your quality
 **Value Props by Persona:**
 - **Skeptical:** "You don't need to be perfect. Just more present than the guy down the street."
 - **Urgent:** "Right now, someone like John is deciding whether to call you or your competitor."
-- **ROI-Focused:** "Every quarter of inconsistency costs $20-50K in lost deals."
+- **ROI-Focused:** "Every quarter of inconsistency costs $10-45K in lost deals."
 - **Time-Crunched:** "You capture 10-15%. We handle 85-90%."
-- **Overwhelmed:** "$550-950/month. Pays for itself in 2-3 months."
+- **Overwhelmed:** "$550-950/month. Pays for itself in 3-4 months."
 
 **Complete Framework Includes:**
 - 6 key messages for every channel
 - Objection handling scripts (7 common objections)
-- Discovery call flow (opening → diagnostic → education → close)
+- Discovery call flow
 - Email sequences (nurture, trial, post-trial)
 - Elevator pitches (10-sec, 30-sec, 60-sec)
 - Channel-specific guidance (social, web, sales, email)
@@ -212,11 +215,11 @@ These pillars were built from:
 
 **IMPORTANT:** The above prices are Founders pricing available to the first 15 clients only. Full price is $1200-$1800/month plus a $600 one-time implementation fee.
 
-**Trial:** 30 days free, invoice on day 23
+**Trial:** 30 days at no cost, invoice on day 23 (net 7)
 
 **Target Client:** $2-10M revenue, 5-20 employees, 1-2 calls/month currently
 
-**Transformation:** 1-2 calls/month → 3-4 calls/week in 2-3 months
+**Transformation:** 1-2 calls/month → 3-4 calls/week in 3-5 months
 
 ---
 
