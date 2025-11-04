@@ -1,0 +1,187 @@
+# HOME PAGE
+
+---
+
+## HERO SECTION
+
+**Badge:** Results, Not Tools
+
+**Headline:** We Keep You in the 4-Minute Decision
+
+**Subheadline:** More qualified calls from the prospects already searching for you
+
+**Body:**
+Every day, potential customers spend less than 4 minutes deciding who to call. They open 5 businesses, eliminate 3 based on dead digital profiles, and call only 1 or 2. Most businesses fail this test daily and never know it happened. Your next customer is running that test right now.
+
+**Tagline:** Human Touch Marketing in an AI & Automated World
+
+---
+
+## STATS SECTION
+
+• 25-50% more phone calls within 60 days
+• 35-70% more website clicks from searches
+• 15-30% less price resistance on quotes
+• Win the 4-minute decision your competitors lose
+
+---
+
+## THE 4-MINUTE MARKETING SYSTEM
+
+**Headline:** How Prospects Decide in 4 Minutes
+
+**Subheadline:** Your digital pulse during critical decision moments
+
+**The Story:**
+John's boss drops an urgent project. 11:56 AM. He has 4 minutes before lunch.
+
+**Step 1: The Search (1 minute)**
+Google Maps → searches for contractors → opens 5 businesses with solid reviews
+
+**Step 2: The Elimination (2 minutes)**
+Checks Google profile, website, social media for signs of life. Dead profiles? Tab closed.
+
+**Step 3: The Final Test (1 minute)**
+Down to 2 businesses that "feel right." Fresh content. Active presence. Legitimate.
+
+**Step 4: The Call (30 seconds)**
+He calls the two that passed the test. The other three never knew he existed.
+
+---
+
+## OUR SOLUTION: YOU CAPTURE, WE CREATE
+
+**Headline:** Your Solution: You Capture, We Create
+
+**Subheadline:** We handle everything except the real moments
+
+**How It Works:**
+
+1. **Planning Calls** — Twice monthly, we spend 15 minutes planning your next 6-8 content pieces with capture dates assigned. You know exactly what to film.
+
+2. **You Capture** — Film 10 minutes per week. Real work. Your phone. Your location. Upload via form. You're done.
+
+3. **We Create** — Professional editing, captions, strategy, scheduling. Your authentic moments become compelling content across Google, Facebook, Instagram, and LinkedIn.
+
+4. **Content Goes Live** — Automatic posting. We monitor performance and adjust your strategy based on what's working.
+
+**Result:** You stay visible during the 4-minute window when prospects are deciding.
+
+---
+
+## THE 9 COMPONENTS OF 4-MINUTE MARKETING
+
+**Headline:** Everything You Need to Win the 4-Minute Decision
+
+**Subheadline:** A complete system that builds visibility, trust, and revenue over time
+
+1. **You Capture, We Create** — 3+ professionally edited posts weekly (2 videos + 1 additional content) that build authentic trust with prospects
+
+2. **Digital Pulse Management** — 156+ pieces of professional content annually across Google Business Profile, Facebook, Instagram, and LinkedIn—not vanity metrics, real visibility
+
+3. **Brand Pillars Foundation** — Free strategic document ($1,500 value) that aligns your website, social content, Google optimization, and messaging. No guesswork.
+
+4. **Asset Library & Repurposing** — Every piece of content optimized for multiple platforms. Maximum value from every capture.
+
+5. **Strategic Engagement** — Human responses to reviews, comments, and messages. You're not just posting—you're present.
+
+6. **Review Generation System** — Proven system to build fresh, positive reviews. Training and coaching included.
+
+7. **Platform Optimization** — Professional setup and consistent branding across Google Business, Facebook, Instagram, LinkedIn, and your website.
+
+8. **Mobile-First Link Strategy** — Optimized link landing page that converts traffic into inquiries and calls.
+
+9. **Strategy Sessions** — Bi-weekly 15-minute planning calls. We keep you on track.
+
+---
+
+## GET MORE BUSINESS
+
+**Headline:** What Happens When Your Business Looks Active
+
+**Subheadline:** Real proof that you're actively serving customers right now
+
+**Results You See:**
+- More phone calls and qualified quote requests
+- Faster "yes" decisions from prospects
+- Increased referrals and word-of-mouth
+- Higher quote acceptance rates (less price resistance)
+
+**Content We'll Create Together:**
+Behind-the-scenes work, customer wins, team introductions, before/after reveals, process demonstrations, tips & expertise, community involvement, equipment spotlights
+
+---
+
+## CASE STUDY: FROM ELIMINATION TO PHONE CALLS
+
+**Headline:** Our Clients Go From Invisible to Unstoppable
+
+**Subheadline:** From 1-2 calls/month to 3-4 calls/week
+
+**Real Client Example:**
+
+*Solar Company — Appointment Cancellations to Booked Calendar*
+
+**The Problem:** Only 8 Google reviews. No photos on their profile. Dead social media. Calendar booking only 4 weeks out. Lost $10-20K monthly to competitor visibility.
+
+**The Fix:** Within weeks, we brought their digital storefront to life. Weekly photos of installations, happy customers, team moments. Engaged with every review. Active presence across all platforms.
+
+**The Result:** Appointment show-up rate jumped to 60-70%. Sales climbed. Calendar now books 12 weeks out.
+
+**Their Words:** "We were getting too many appointment cancellations. After we fixed our search presence, the growth was unbelievable." — Alan, Marketing Director
+
+---
+
+## INVESTMENT SECTION
+
+**Headline:** Your Time Investment: Less Than a Coffee Break Per Week
+
+**Subheadline:** You do 10-15%. We do 85-90%.
+
+10 minutes per week is all you need to capture real business moments. We handle the heavy lifting: strategy, editing, captions, scheduling, review management, engagement, optimization, and performance tracking.
+
+**The Math:** If 10 minutes/week of capturing generates 25-50% more calls, that's easily $5-15K+ in extra revenue monthly. Your investment pays for itself in 2-3 months.
+
+---
+
+## PRICING PACKAGES
+
+**Headline:** Two Simple Packages. Both Deliver Results.
+
+**4-Minute Winner — $550/month**
+Perfect for businesses ready to start winning the 4-minute decision
+
+✓ 2 posts per week (video + content)
+✓ Google Business Profile optimization
+✓ Bi-weekly 15-minute strategy calls
+✓ Review response management
+✓ Monthly performance analytics
+✓ Brand Pillars foundation document (free, $1,500 value)
+✓ 30-day free trial
+
+---
+
+**4-Minute Dominator — $950/month [MOST POPULAR]**
+Everything in Winner PLUS all 9 Components for market dominance
+
+✓ 3 posts per week across all platforms
+✓ All 156 pieces of content annually
+✓ Advanced social strategy
+✓ Strategic captions & brand voice development
+✓ Priority support & faster turnaround
+✓ Quarterly strategy sessions
+✓ Complete platform optimization
+✓ 30-day free trial
+
+*Founders pricing available to first 15 clients. Full pricing: $1,200-$1,800/month + $600 implementation.*
+
+---
+
+## FINAL CTA
+
+**Headline:** Ready to Stop Losing Those Calls?
+
+**Body:** Most businesses lose 2-5 qualified prospects every month to the 4-minute test. See if our "You Capture, We Create" system can fix your invisibility problem.
+
+**Phone:** (567) 333-8779
+**CTA:** Schedule Your Free Business Assessment
