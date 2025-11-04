@@ -253,12 +253,12 @@ The **4-Minute Decision framework** captures the urgency and psychology of how c
 - "Human Touch Marketing in an AI & Automated World"
 - "Digital Pulse Management During Critical Decision Moments"
 - "We Don't Manage Social Media—We Manage Your Digital Pulse"
-- Add another...
+- **🔴 USER INPUT NEEDED:** Add another secondary positioning statement here...
 
 ### Elevator Version
 "We help service businesses survive the 4-minute test when urgent customers decide who to call—ensuring you're one of the 2 who get called instead of one of the 3 who get eliminated in browser tabs."
 
-Add two variations...
+**🔴 USER INPUT NEEDED:** Add two variations of the elevator pitch here...
 
 ---
 

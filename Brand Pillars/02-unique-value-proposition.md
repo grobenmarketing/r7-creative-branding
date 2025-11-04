@@ -18,7 +18,9 @@ We transform invisible service businesses into visible lead machines through our
 ## The Complete Service Offering
 
 ### 4-Minute Winner Package
-**$550/month** | *Perfect for businesses ready to dominate Google Business Search*
+**$550/month*** | *Perfect for businesses ready to dominate Google Business Search*
+
+*Founders pricing for first 15 clients. Full price: $1200/month + $600 one-time implementation fee.
 
 #### What's Included
 
@@ -52,7 +54,9 @@ We transform invisible service businesses into visible lead machines through our
 ---
 
 ### 4-Minute Dominator Package ⭐ MOST POPULAR
-**$950/month** | *Everything in Winner PLUS full social media domination*
+**$950/month*** | *Everything in Winner PLUS full social media domination*
+
+*Founders pricing for first 15 clients. Full price: $1800/month + $600 one-time implementation fee.
 
 #### What's Included
 
@@ -117,6 +121,19 @@ We transform invisible service businesses into visible lead machines through our
 
 **Why it works:**
 Authentic, raw content builds trust faster than polished corporate marketing. Customers want to see **real people doing real work**—not stock photos or overly produced videos.
+
+**Important Platform Guidelines:**
+Google Business Profile has strict rules we follow:
+- No fancy transitions or motion effects in videos
+- No text overlays on photos (unless describing the business location)
+- Content must be authentic and representative of actual operations
+- Profile must be full and complete
+- Favors profiles with matching website content
+- Favors profiles with search and AI optimized websites
+- Favors profiles with weekly reviews and owner replies
+- Favors weekly posts and media uploads
+
+**Feed Google What It Wants:** We follow these rules because violating them risks account penalties or removal. Google rewards you with traffic.
 
 > **See:** [[../_reference/You Capture We Create Workflow-20251101125130|You Capture We Create Workflow]] for complete process details
 > **See:** [[../_reference/Workflow Guide-20251101125219|Workflow Guide]] for client-facing workflow explanation
