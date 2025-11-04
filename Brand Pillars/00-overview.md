@@ -72,7 +72,7 @@ We don't "manage social media"—we manage your **digital pulse** during critica
 **Current Situation:**
 - 1-2 calls/month (want 3-4 calls/week)
 - Calendar booking only 2-3 weeks out
-- Invisible online (dead social, incomplete Google profile, ineffective website, low numner of reviews, poor online reputation)
+- Invisible online (dead social, incomplete Google profile, ineffective website, low number of reviews, poor online reputation)
 - "Day late and a dollar short" — hurting on money weekly, should have taken action long ago and they know it
 
 **Trigger Moments:**

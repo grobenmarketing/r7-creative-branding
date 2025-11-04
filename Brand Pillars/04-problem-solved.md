@@ -7,7 +7,7 @@
 
 ## The Core Problem
 
-Local service businesses are losing **$20-50K+ quarterly** because they're being eliminated in 4 minutes by customers they never even knew existed.
+Local service businesses are losing **$10-45K+ quarterly** because they're being eliminated in 4 minutes by customers they never even knew existed.
 
 Every day, potential customers ("Johns") spend exactly **4 minutes** deciding who to call:
 1. Open 5 businesses on Google Maps
@@ -35,7 +35,7 @@ Every day, potential customers ("Johns") spend exactly **4 minutes** deciding wh
 **The Cost:**
 At average job sizes for service businesses:
 - **$50K-$300K in lost revenue annually**
-- **$20-50K quarterly** in deals going to competitors
+- **$10-45K+ quarterly** in deals going to competitors
 
 **The Worst Part:**
 - They'll never know John looked
@@ -65,7 +65,7 @@ Your inconsistent digital presence makes you look:
 Dead social profiles signal unreliable operations to modern customers
 
 **The Cost:**
-**Every quarter of inconsistency costs $20-50K in deals they didn't know they lost**
+**Every quarter of inconsistency costs $10-45K+ in deals they didn't know they lost**
 
 > **Reference:** [[../_reference/The Core Insight-20251101125028|The Core Insight]] — The Browser Tab Test
 
