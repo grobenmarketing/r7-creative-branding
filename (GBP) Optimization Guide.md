@@ -1,3 +1,8 @@
+[Claude Research](https://claude.ai/public/artifacts/97d6eead-a0ce-4401-9e4b-be3309a1ee1a)
+---
+<iframe src="https://claude.site/public/artifacts/97d6eead-a0ce-4401-9e4b-be3309a1ee1a/embed" title="Claude Artifact" width="100%" height="600" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
+---
+
 ## 📝 Comprehensive Google Business Profile (GBP) Optimization Guide
 
 This guide outlines the official requirements, ranking factors, and ongoing management tasks necessary for a complete and highly visible Google Business Profile.
