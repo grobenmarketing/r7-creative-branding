@@ -15,10 +15,9 @@
 ## CONTACT INFORMATION
 
 **Primary Contact:**
-Call or Text: **(567) 333-8779**
+Call: **(567) 333-8779**
 
 **Email:** jordan@r7creative.com
-(We respond within 24 hours)
 
 **Location:** Ashland, Ohio
 **Service Area:** Local and nationwide businesses
@@ -31,7 +30,7 @@ Call or Text: **(567) 333-8779**
 - Get a free business assessment (what prospects see during their 4-minute evaluation)
 - Understand your specific gaps and opportunities
 - See if our "You Capture, We Create" system is right for your business
-- Ask questions about the 30-day free trial, pricing, or timeline
+- Ask questions about the 30-day no-cost trial, pricing, or timeline
 
 ---
 
@@ -42,6 +41,7 @@ Ashland, Ohio
 
 **Availability:**
 Remote consultations available for all businesses nationwide
+In-person meetings by appointment
 
 **Business Hours:**
 Monday–Friday: 8:00 AM – 5:00 PM
