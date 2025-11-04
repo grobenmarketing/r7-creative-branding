@@ -29,26 +29,28 @@
 ### Lead Flow Problem
 **Current State:** Stuck at 1-2 calls/month
 **Should Be:** Getting 3-4 calls/week
-**The Gap:** Missing 10-15 qualified leads monthly = $20-50K+ quarterly loss
+**The Gap:** Missing 10-15 qualified leads monthly = $10-45K+ quarterly loss
 
 ### Calendar Status
 **Current:** Booking only 2-3 weeks out
 **Desired:** Booking 2-3 months out
-**The Impact:** Keeps them up at night, can't plan hiring or growth
+**The Impact:** Keeps them up at night, can't plan hiring or growth, stressed about cash flow
 
 ### Visibility Crisis
 - **Dead social profiles:** Last post 6-12 months ago (or never)
 - **Incomplete Google Business Profile:** Missing photos, services, hours
 - **Outdated website:** Generic, no recent work examples
+- **Low, No, Bad Reviews**: People who would give them a chance are turned off
 - **Result:** Customers think they're closed, too busy, or not professional
 
 ### Urgency Factor
 > **"Day late and a dollar short"**
 
-- Hurting on money each week
+- Hurting on money each week, have been for months/years
 - Realizing "not having enough business is catching up with them"
 - Should have fixed this years ago but didn't
 - Now have even less money and less time to invest
+- Progressivey working longer, taking on more to hire help "eventually"
 
 > **Source:** [[brand-pillar-interview-transcript|Interview Transcript]] — Q3
 > *"A lot of them usually are pretty urgent to solve this because they're hurting on money each week."*
@@ -71,14 +73,15 @@
 - Reality check: "Our customers can't find us"
 
 **3. Lost Opportunity Awareness**
-- Lose a job to a competitor who "looked more professional online"
-- Customer mentions: "I almost didn't call you—your profile looked dead"
-- Realize the phone *isn't* ringing for a reason
+- Lose a job to anyone who "looked more alive online"
+- Customer mentions: "I almost didn't call you—I couldn't tell if you were still..."
+- Realize the phone *isn't* ringing/emails aren't coming for a reason
+- "Nobody knows we exist"
 
 **4. Calendar Anxiety**
 - Work not booked past 3-6 weeks (danger zone)
 - Can't justify hiring more staff
-- Growth has plateaued despite quality work
+- Growth has plateaued despite quality work, superior quality and service
 
 **5. Competitor Envy**
 - See competitors everywhere online
@@ -99,6 +102,7 @@
 - ✗ **DIY social media** → Gave up after 3 weeks (too time-consuming, no strategy)
 - ✗ **Cheap freelancers** → No strategy, inconsistent, no results
 - ✗ **Expensive agencies** → Charged thousands, promised "brand awareness," delivered no ROI
+- ✗ **Denial**: → This works for others but not for me
 
 ### The Skepticism This Creates
 - "I tried marketing before and it didn't work"
@@ -107,7 +111,7 @@
 - "I don't have time for this"
 - "Marketing is too expensive"
 
-**This is what we're REALLY competing against** — not other agencies, but their past failures and skepticism.
+**This is what we're REALLY competing against** — not other agencies, but their past failures, skepticism, and own burn out.
 
 > **Reference:** [[01-brand-positioning|Brand Positioning]] — Competitive Position section
 
@@ -139,13 +143,15 @@
 - Equipment Rental
 - Industrial Supplies
 - Professional Services
+- Marketing Services
 
 ### Common Characteristics
 - Local service area (not nationwide)
-- Job sizes $500-$50K+ per project
+- Job sizes $500-$20K+ per project
 - Customers do online research before calling
 - Reputation and trust matter (not just price)
 - Visual proof of work helps close deals
+- Looking alive and responsive wins the trust, gets the first call/email
 
 ---
 
@@ -162,16 +168,16 @@
 - Want proof this will work before investing
 - Been burned by promises before
 - Need to see results to believe it
-- **That's why the 30-day free trial is crucial**
+- **That's why the 30-day at no cost period is crucial**
 
 **3. Simplicity**
 - Don't want to learn marketing
 - Don't want complex systems or tools
 - Want someone to handle it systematically
-- Need clear expectations and easy participation
+- Need a clear solution and predictable participation
 
 **4. Results**
-- More phone calls (qualified leads)
+- More phone calls/emails (qualified leads)
 - More revenue (not just "awareness")
 - Calendars booked full (2-3 months out)
 - Tangible, measurable outcomes
@@ -183,7 +189,7 @@
 **Fear:**
 - Missing opportunities they don't even know about
 - The "invisible Johns" eliminating them in browser tabs
-- Competitors capturing their market share
+- Competitors who arent even as good, capturing their market share
 - Business stagnating or declining
 
 **Frustration:**
@@ -193,7 +199,7 @@
 - Wasting time on ineffective tactics
 
 **Urgency:**
-- Need consistent lead flow to maintain operations
+- Need consistent lead flow to maintain operations and grow
 - Can't grow without more leads
 - Time is running out (getting further behind)
 - Need to solve this NOW, not "someday"
@@ -203,6 +209,7 @@
 - Convinced "brand awareness" is BS
 - Don't believe online marketing works
 - Need proof before trusting anyone
+- Their way is good enough
 
 > **See:** [[05-customer-avatar|Customer Avatar]] for humanized version ("Marcus")
 
@@ -221,9 +228,9 @@
 
 ### The Decision Factor
 
-They're willing to take a risk on something new, but they need to see **proof it works** before committing long-term.
+They're willing to take a risk on something new, but they need to see **social proof** before committing long-term.
 
-**That's why the 30-day free trial is so effective:**
+**That's why the 30-day no cost trial is so effective:**
 - Removes all risk from their decision
 - Lets them see results before paying
 - Proves what no one else could
@@ -271,7 +278,7 @@ They're willing to take a risk on something new, but they need to see **proof it
 The "You Capture, We Create" system **requires collaboration.**
 
 If they can't/won't:
-- Capture 10-15% of content
+- Capture 10-20 minutes/week of content
 - Attend bi-weekly meetings
 - Meet deadlines
 - Trust the process
