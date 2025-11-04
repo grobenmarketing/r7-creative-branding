@@ -21,10 +21,10 @@
 ---
 
 **Step 1: Planning Calls**
-Twice per month, we spend 15 minutes together planning your next 6-8 content pieces. You know exactly what to capture and when.
+Twice per month, we spend 30 minutes together planning your next 6-10 content pieces. You know exactly what to capture and when.
 
 **Step 2: You Capture**
-Film 10 minutes per week using your phone. Real work. Real moments. Real you. Upload through our simple form. That's your part.
+Record/photograph 10-20 minutes per week using your phone. Real work. Real moments. Real you. Upload through our simple form. That's your part.
 
 **Step 3: We Create**
 Professional editing, captions, strategy, platform optimization, scheduling. We turn authentic moments into polished content.
