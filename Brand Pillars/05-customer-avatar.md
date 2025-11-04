@@ -131,10 +131,10 @@ Every failure reinforces his belief that "online marketing doesn't work for my i
 
 ### Surface Frustrations (What He Says)
 
-- "I don't have time to do social media"
+- "I don't have time to do social media or fix my website"
 - "I'm not sure posting online will do anything for us"
 - "Marketing is expensive—probably costs thousands"
-- "I'm too busy running the business to create content"
+- "I'm too busy running the business to create content or update my website"
 - "My customers don't use social media"
 
 ### Deeper Fears (What He Doesn't Say)
@@ -176,9 +176,9 @@ Every failure reinforces his belief that "online marketing doesn't work for my i
 - Collective recognition that invisibility is costing them
 
 **2. Customer Feedback**
-- Customer mentions: "I almost didn't call you—your Google profile looked dead"
-- Lost job to competitor who the customer said "looked more professional online"
-- Realizes customers ARE checking online
+- Customer mentions: "I almost didn't call you—your Google profile looked dead and your website is outdated"
+- Lost job to competitor who the customer said "looked more professional online with a better website"
+- Realizes customers ARE checking online across Google, website, and social
 
 **3. Lost Opportunity**
 - Loses a big job to a competitor
@@ -212,7 +212,7 @@ This is the moment he's ready to take action.
 ### Stage 1: Getting His Attention (First Call)
 
 **Show him the invisible loss:**
-> "100 people monthly search for your service in your area. If you're not showing up, those calls go to your 3-4 competitors. That's $50K+ you're losing annually—more than 5x our entire year's investment."
+> "100 people monthly search for your service in your area. If you're not showing up across Google, your website, and social media, those calls go to your 3-4 competitors. That's $50K+ you're losing annually—more than 5x our entire year's investment."
 
 **Address his skepticism:**
 > "You've tried marketing before and it didn't work. I get it. That's why we offer a 30-day free trial—so you can see it working before you invest a dollar."
@@ -311,7 +311,7 @@ Finally feeling like he's **winning** instead of just surviving.
 
 ### What Resonates (Use These)
 
-✅ **"Your customers are searching for you right now—are they finding you or your competitors?"**
+✅ **"Your customers are searching for you right now—are they finding an active Google profile, professional website, and current social media, or your competitors?"**
 - Focuses on opportunity, not failure
 - Creates urgency without pressure
 - Makes the invisible visible
