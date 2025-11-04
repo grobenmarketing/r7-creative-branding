@@ -140,7 +140,7 @@ Behind-the-scenes work, customer wins, team introductions, before/after reveals,
 
 10 minutes per week is all you need to capture real business moments. We handle the heavy lifting: strategy, editing, captions, scheduling, review management, engagement, optimization, and performance tracking.
 
-**The Math:** If 10 minutes/week of capturing generates 25-50% more calls, that's easily $5-15K+ in extra revenue monthly. Your investment pays for itself in 2-3 months.
+**The Math:** If 10-20 minutes/week of capturing generates 25-50% more calls, that's easily $5-15K+ in extra revenue monthly. Your investment pays for itself in 2-3 months.
 
 ---
 
@@ -157,7 +157,7 @@ Perfect for businesses ready to start winning the 4-minute decision
 ✓ Review response management
 ✓ Monthly performance analytics
 ✓ Brand Pillars foundation document (free, $1,500 value)
-✓ 30-day free trial
+✓ 30-day no-cost trial
 
 ---
 
@@ -171,7 +171,7 @@ Everything in Winner PLUS all 9 Components for market dominance
 ✓ Priority support & faster turnaround
 ✓ Quarterly strategy sessions
 ✓ Complete platform optimization
-✓ 30-day free trial
+✓ 30-day no-cost trial
 
 *Founders pricing available to first 15 clients. Full pricing: $1,200-$1,800/month + $600 implementation.*
 
