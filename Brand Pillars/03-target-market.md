@@ -10,7 +10,7 @@
 ### Revenue & Size
 - **Annual Revenue:** $2-10M (sweet spot: $3M)
 - **Team Size:** 5-20 employees (sweet spot: 8 employees)
-- **Monthly Marketing Budget:** Able to invest $550-$950/month
+- **Monthly Marketing Budget:** Able to invest $550-$950/month (Founders pricing for first 15 clients; full price $1200-$1800/month + $600 implementation fee)
 - **Business Stage:** Profitable but plateaued
 
 ### Business Characteristics
@@ -255,9 +255,10 @@ They're willing to take a risk on something new, but they need to see **proof it
 
 **Expectations:**
 - ❌ Expect instant results or overnight miracles
-- ❌ Want full-service video production with fancy transitions (we follow platform guidelines for authenticity)
+- ❌ Want full-service video production with fancy transitions (we follow Google Business Profile platform guidelines for authenticity - no fancy transitions, no text overlays, authentic content only)
 - ❌ Think this is "set it and forget it" (requires collaboration)
 - ❌ Want to micromanage every detail (trust is essential)
+- ❌ Want to violate platform guidelines for "fancier" content (risks account penalties)
 
 **Mindset:**
 - ❌ Not willing to believe it can work

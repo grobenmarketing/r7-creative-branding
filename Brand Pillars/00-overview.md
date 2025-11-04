@@ -35,14 +35,16 @@ We don't "manage social media"—we manage your **digital pulse** during critica
 
 **Complete Service Packages:**
 
-**4-Minute Winner** ($550/month)
+**4-Minute Winner** ($550/month)*
 - 2 posts/week, Google Business focus
 - Brand Pillars document (free $2,000-$2,500 value)
 - 30-day free trial
 
-**4-Minute Dominator** ($950/month) ⭐ Most Popular
+**4-Minute Dominator** ($950/month)* ⭐ Most Popular
 - 3 posts/week, ALL platforms
 - Everything in Winner PLUS advanced strategy & engagement
+
+*Founders pricing for first 15 clients. Full price: $1200-$1800/month + $600 implementation fee.
 
 **What Makes Us Different:**
 1. Free Brand Pillars foundation (competitors charge $2K+)
@@ -207,6 +209,8 @@ These pillars were built from:
 **Packages:**
 - Winner: $550/month (2 posts/week, Google Business)
 - Dominator: $950/month (3 posts/week, all platforms)
+
+**IMPORTANT:** The above prices are Founders pricing available to the first 15 clients only. Full price is $1200-$1800/month plus a $600 one-time implementation fee.
 
 **Trial:** 30 days free, invoice on day 23
 

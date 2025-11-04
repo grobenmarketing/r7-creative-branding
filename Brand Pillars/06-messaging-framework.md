@@ -47,7 +47,7 @@ Your next customer will decide on you in 4 minutes. Not because of your quality,
 > "You capture 10-15%. We handle 85-90%. Your only commitment: 20 minutes every two weeks."
 
 ### For the Overwhelmed
-> "This isn't complicated or expensive. It's $550-950/month and pays for itself in 2-3 months."
+> "This isn't complicated or expensive. It's $550-950/month (Founders pricing for first 15 clients; full price $1200-$1800/month) and pays for itself in 2-3 months."
 
 > **See:** [[05-customer-avatar|Customer Avatar (Marcus)]] — How to talk to your ideal client
 
@@ -175,7 +175,7 @@ This is **"Human Touch Marketing in an AI & Automated World."** You emphasize au
 #### "This is too expensive"
 
 **Response:**
-> "It's $550-950/month. If 100 people monthly search for your service and you're invisible, you're losing $50K+ annually in calls that go to competitors. Our annual investment is $6,600-$11,400. The cost of invisibility is 5-10x higher. Plus, it pays for itself in 2-3 months."
+> "It's $550-950/month for our Founders pricing (full price is $1200-$1800/month). If 100 people monthly search for your service and you're invisible, you're losing $50K+ annually in calls that go to competitors. Our annual Founders investment is $6,600-$11,400. The cost of invisibility is 5-10x higher. Plus, it pays for itself in 2-3 months."
 
 #### "I'm not sure this will work for me"
 
@@ -381,7 +381,7 @@ Conversational, direct, no fluff. Use "we," "your," "here's what happens." Short
 | **Urgent** | "Right now, someone is deciding whether to call you" | "Schedule discovery call" |
 | **ROI-Focused** | "Invisibility costs $20-50K+ quarterly" | "See your ROI calculation" |
 | **Time-Crunched** | "You do 10-15%, we do 85-90%" | "See how it works" |
-| **Overwhelmed** | "$550-950/month, pays back in 2-3 months" | "Start free trial" |
+| **Overwhelmed** | "$550-950/month* (*Founders pricing), pays back in 2-3 months" | "Start free trial" |
 
 ---
 
