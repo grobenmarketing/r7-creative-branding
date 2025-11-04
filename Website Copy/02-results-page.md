@@ -14,7 +14,7 @@
 
 ---
 
-## CASE STUDY 1: SOLAR COMPANY — FROM CANCELLATIONS TO BOOKED CALENDAR
+## CASE STUDY 1: US SOLAR — FROM CANCELLATIONS TO BOOKED CALENDAR
 
 **The Problem:**
 6 out of 10 scheduled appointments were canceling. Calendar only booked 4 weeks out. Only 8 Google reviews. Dead social media. Prospects were eliminating them before they even called.
@@ -29,7 +29,7 @@ Appointment show-up rate climbed from 30% to 60-70%. Revenue jumped. Calendar no
 
 ---
 
-## CASE STUDY 2: FLEET COMPANY — INVISIBLE TO LANDING MAJOR CONTRACTS
+## CASE STUDY 2: YODER GRAPHICS — INVISIBLE TO LANDING MAJOR CONTRACTS
 
 **The Problem:**
 Completely invisible online. Missing opportunities from large companies searching for local vendors. Two weeks from zero visibility online.
@@ -44,7 +44,7 @@ A major power company found them on Facebook, checked their Google profile, visi
 
 ---
 
-## CASE STUDY 3: SERVICE BUSINESS — NO SEARCHES, NOW RINGING PHONE
+## CASE STUDY 3: POWER WASH PROS — NO SEARCHES, NOW RINGING PHONE
 
 **The Problem:**
 Dead Google Business Profile. Zero phone calls from online searches. Working hard but invisible when it mattered most.
@@ -64,7 +64,7 @@ First week: A customer called saying "I found you on your Google profile page." 
 **Headline:** Results You Can Measure
 
 **The Numbers:**
-• 25-50% more phone calls within 60 days
+• 25-50% more phone calls within 90 days
 • 35-70% more website clicks from local searches
 • 15-30% less price resistance on quotes
 • 2.7x more trustworthy appearance online
@@ -88,4 +88,4 @@ Prospects see you as active, legitimate, and worth calling instead of your compe
 
 **Phone:** (567) 333-8779
 **CTA:** Schedule Your Free Business Assessment
-**Subtext:** See if you qualify for the same system that helped our clients land their biggest opportunities in their first 60 days.
+**Subtext:** See if you qualify for the same system that helped our clients land their biggest opportunities in their first 30-90 days.
