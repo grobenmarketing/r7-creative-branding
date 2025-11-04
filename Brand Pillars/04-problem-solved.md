@@ -11,8 +11,8 @@ Local service businesses are losing **$10-45K+ quarterly** because they're being
 
 Every day, potential customers ("Johns") spend exactly **4 minutes** deciding who to call:
 1. Open 5 businesses on Google Maps
-2. Check social media for signs of life
-3. Eliminate 3 based on dead profiles
+2. Check website and social media for signs of life
+3. Eliminate 3 based on dead profiles and outdated properties
 4. Call only 1 or 2
 
 **80% of businesses fail this test daily and never know it happened.**
@@ -56,13 +56,13 @@ At average job sizes for service businesses:
 
 **Why They Choose Competitors:**
 Your inconsistent digital presence makes you look:
-- "Out of business" (dead social profiles)
-- "Too busy/inattentive" (no recent activity)
-- "Unprofessional" (incomplete profiles)
-- "Unreliable" (outdated information)
+- "Out of business" (dead social profiles, outdated website)
+- "Too busy/inattentive" (no recent activity across platforms)
+- "Unprofessional" (incomplete profiles, ineffective website)
+- "Unreliable" (outdated information across Google, social, and website)
 
 **The Signal:**
-Dead social profiles signal unreliable operations to modern customers
+Dead social profiles, outdated websites, and incomplete Google profiles signal unreliable operations to modern customers
 
 **The Cost:**
 **Every quarter of inconsistency costs $10-45K+ in deals they didn't know they lost**
@@ -99,7 +99,7 @@ Less leads → Less revenue → Less time/money → Less visibility → Even few
 ❌ **"My customers don't use social media"**
 - **Wrong:** They're checking if you're still in business (big difference)
 - 81% research online before buying
-- They're doing a "pulse check," not engaging with content
+- They're doing a "pulse check" across Google, website, and social—not engaging with content
 
 ❌ **"I get business without social media"**
 - **Partially true:** You get customers who call without checking

@@ -58,27 +58,27 @@ Your next customer will decide on you in 4 minutes. Not because of your quality,
 ### 1. The Invisible Loss (The Problem)
 
 **Primary Messages:**
-- "100 people monthly might be searching for your service in your area. If you're not showing up, those calls are going to your 3-4 competitors. That's $50K+ in lost revenue annually—more than our entire annual investment."
+- "100 people monthly might be searching for your service in your area. If you're not showing up across Google, your website, and social media, those calls are going to your 3-4 competitors. That's $50K+ in lost revenue annually—more than our entire annual investment."
 - "80% of businesses fail the 4-minute test daily and never even know it happened. No missed call. No 'we went with someone else' email. Just wondering why the phone isn't ringing."
-- "You'll never know John looked. He opened your profile, saw dead social media, and closed the tab. He called someone else. You never knew he existed."
+- "You'll never know John looked. He opened your profile, checked your website, saw dead social media, and closed the tab. He called someone else. You never knew he existed."
 
 > **Reference:** [[04-problem-solved|Problem Solved Statement]] — Complete cost analysis
 
 ### 2. The 4-Minute Decision Window (The Framework)
 
 **Primary Messages:**
-- "When someone needs your service RIGHT NOW, they spend 4 minutes deciding who to call. They open 5 businesses, eliminate 3 based on dead social profiles, and call 2."
-- "Customers check three platforms in 4 minutes before deciding who to call: Google Business Profile → Social Media → Website. We make sure you pass the test on all three."
-- "Active social media is the fastest way customers assess if you're worth their time. Dead profiles = dead to them."
+- "When someone needs your service RIGHT NOW, they spend 4 minutes deciding who to call. They open 5 businesses, eliminate 3 based on dead social profiles and outdated websites, and call 2."
+- "Customers check three platforms in 4 minutes before deciding who to call: Google Business Profile → Website → Social Media. We make sure you pass the test on all three."
+- "Active social media, professional website, and complete Google profile signal you're worth their time. Dead profiles and outdated websites = dead to them."
 
 > **Reference:** [[../_reference/The Core Insight-20251101125028|The Core Insight]] — Full framework
 
 ### 3. The Simple Solution (What We Do)
 
 **Primary Messages:**
-- "We don't 'manage social media'—we manage your digital pulse during critical decision moments."
-- "This works because we give Google what Google wants (complete profiles, reviews, authentic content), give customers what they want (proof you're active and legitimate), and give you what you want (phone calls from people already searching)."
-- "Everything flows from your custom Brand Pillars document ($1,500 value, included free). No guesswork. Just systematic execution."
+- "We don't 'manage social media'—we manage your digital pulse across Google, your website, and social media during critical decision moments."
+- "This works because we give Google what Google wants (complete profiles, reviews, authentic content, optimized website), give customers what they want (proof you're active and legitimate across all platforms), and give you what you want (phone calls from people already searching)."
+- "Everything flows from your custom Brand Pillars document ($1,500 value, included free). Your website copy, social content, Google optimization—all aligned. No guesswork. Just systematic execution."
 
 > **Reference:** [[02-unique-value-proposition|UVP]] — Complete system details
 
@@ -155,17 +155,17 @@ This is **"Human Touch Marketing in an AI & Automated World."** You emphasize au
 #### "My customers don't use social media"
 
 **Response:**
-> "John wasn't 'using social media'—he was checking if you're still in business. Big difference. 81% of customers research businesses online before buying. They're checking for a pulse, not engaging with content."
+> "John wasn't 'using social media'—he was checking your Google profile, website, and social to see if you're still in business. Big difference. 81% of customers research businesses online before buying. They're checking for a pulse across all platforms, not engaging with content."
 
 #### "I get business without social media"
 
 **Response:**
-> "You get the customers who call without checking. What about the Johns who eliminate you in browser tabs? That's 20-30% of potential customers choosing competitors—not because of price or quality, but because you looked inactive."
+> "You get the customers who call without checking. What about the Johns who eliminate you in browser tabs? That's 20-30% of potential customers choosing competitors—not because of price or quality, but because your website was outdated and you looked inactive online."
 
 #### "Social media doesn't work for my industry"
 
 **Response:**
-> "John doesn't care about your industry. He cares that you look attentive and available when he needs you. This isn't about selling on social—it's about passing the trust check so they call you."
+> "John doesn't care about your industry. He cares that you look attentive and available across your Google profile, website, and social media when he needs you. This isn't about selling on social—it's about passing the trust check across all platforms so they call you."
 
 #### "I don't have time for social media"
 
@@ -185,7 +185,7 @@ This is **"Human Touch Marketing in an AI & Automated World."** You emphasize au
 #### "I tried marketing before and it didn't work"
 
 **Response:**
-> "I hear that a lot. Most businesses tried DIY social (gave up after 3 weeks), hired cheap freelancers (no strategy, no results), or worked with agencies that charged thousands with no ROI. That's why you're skeptical. The difference: we create a complete system with your Brand Pillars as the foundation. Everything flows from strategy. And we prove it works in 30 days—free."
+> "I hear that a lot. Most businesses tried DIY social (gave up after 3 weeks), hired cheap freelancers (no strategy, no results), built a website that doesn't convert, or worked with agencies that charged thousands with no ROI. That's why you're skeptical. The difference: we create a complete system—Google, website optimization, and social—with your Brand Pillars as the foundation. Everything flows from strategy. And we prove it works in 30 days—free."
 
 > **See:** [[03-target-market|Target Market]] — What They've Already Tried section
 
@@ -250,15 +250,15 @@ Conversational, direct, no fluff. Use "we," "your," "here's what happens." Short
 - "What have you tried before for marketing, and why did it stop?"
 
 **Education (Show the Invisible Loss):**
-- Pull up their Google Business Profile and social media live on the call
-- Show them what customers see (dead profiles, outdated posts)
+- Pull up their Google Business Profile, website, and social media live on the call
+- Show them what customers see (dead profiles, outdated website, outdated posts)
 - Walk through the 4-minute decision process: "Here's what John does..."
 - Show them the math: "100 searches/month × 4 competitors = 25 calls you should be getting. But you're getting 1-2. That's $50K+ lost annually."
 
 **Solution Presentation:**
-- "Based on what you've told me, you're losing the 4-minute decision to competitors who simply show up more consistently. The good news? This is fixable."
-- Explain "You Capture, We Create" (10-15% them, 85-90% you)
-- Walk through the Brand Pillars foundation
+- "Based on what you've told me, you're losing the 4-minute decision to competitors who simply show up more consistently across Google, their website, and social. The good news? This is fixable."
+- Explain "You Capture, We Create" (10-15% them, 85-90% you) plus website optimization
+- Walk through the Brand Pillars foundation (drives all content and website copy)
 - Show timeline: Month 1 (first call), Month 2-3 (3-4 calls/week), Month 6+ (calendar booked out)
 
 **The Close:**
