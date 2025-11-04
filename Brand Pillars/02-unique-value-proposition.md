@@ -31,7 +31,7 @@ We transform invisible service businesses into visible lead machines through our
 - Content planning with assigned capture dates
 
 **Strategy Foundation:**
-- **Brand Pillars & Marketing Position document** (6-part copywriting exercise worth $2,000-$2,500, included FREE)
+- **Brand Pillars & Marketing Position document** (6-part copywriting exercise worth $1,500, included FREE)
 - **Complete content strategy** mapped to your brand pillars
 - Strategic brand voice development
 - Asset library management and content repurposing
@@ -86,7 +86,7 @@ We transform invisible service businesses into visible lead machines through our
 
 ### 1. The Brand Pillars Foundation
 
-**What competitors do:** Skip strategy entirely or charge $2,000-$2,500 extra for "brand strategy"
+**What competitors do:** Skip strategy entirely or charge $1,500 extra for "brand strategy"
 
 **What we do:** Create a complete **6-part Brand Pillars & Marketing Position document** for FREE as part of onboarding.
 

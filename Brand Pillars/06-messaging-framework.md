@@ -41,7 +41,7 @@ Your next customer will decide on you in 4 minutes. Not because of your quality,
 > "Right now, someone like John is deciding whether to call you or your competitor. Are you passing his 4-minute test?"
 
 ### For the ROI-Focused
-> "Every quarter of inconsistency costs service businesses $20-50K in lost deals they never knew existed."
+> "Every quarter of inconsistency costs service businesses $10-45K+ in lost deals they never knew existed."
 
 ### For the Time-Crunched
 > "You capture 10-15%. We handle 85-90%. Your only commitment: 20 minutes every two weeks."
@@ -78,7 +78,7 @@ Your next customer will decide on you in 4 minutes. Not because of your quality,
 **Primary Messages:**
 - "We don't 'manage social media'—we manage your digital pulse during critical decision moments."
 - "This works because we give Google what Google wants (complete profiles, reviews, authentic content), give customers what they want (proof you're active and legitimate), and give you what you want (phone calls from people already searching)."
-- "Everything flows from your custom Brand Pillars document ($2,000-$2,500 value, included free). No guesswork. Just systematic execution."
+- "Everything flows from your custom Brand Pillars document ($1,500 value, included free). No guesswork. Just systematic execution."
 
 > **Reference:** [[02-unique-value-proposition|UVP]] — Complete system details
 
@@ -358,7 +358,7 @@ Conversational, direct, no fluff. Use "we," "your," "here's what happens." Short
 **Relief from invisible losses** + systematic results they can see in 30 days
 
 ### What Makes Us Different
-1. Brand Pillars foundation ($2,000-$2,500 value, free)
+1. Brand Pillars foundation ($1,500 value, free)
 2. "You Capture, We Create" system (10-15% them, 85-90% us)
 3. Complete integrated approach (not just "social" or "SEO")
 4. 30-day free trial (no risk)
@@ -379,7 +379,7 @@ Conversational, direct, no fluff. Use "we," "your," "here's what happens." Short
 |---------|-------------|----------------|
 | **Skeptical** | "You don't need to be perfect—just more present than competitors" | "Try 30 days free" |
 | **Urgent** | "Right now, someone is deciding whether to call you" | "Schedule discovery call" |
-| **ROI-Focused** | "Invisibility costs $20-50K+ quarterly" | "See your ROI calculation" |
+| **ROI-Focused** | "Invisibility costs $10-45K+ quarterly" | "See your ROI calculation" |
 | **Time-Crunched** | "You do 10-15%, we do 85-90%" | "See how it works" |
 | **Overwhelmed** | "$550-950/month* (*Founders pricing), pays back in 2-3 months" | "Start free trial" |
 
