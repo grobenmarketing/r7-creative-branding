@@ -19,7 +19,7 @@ Every day, potential customers spend less than 4 minutes deciding who to call. T
 
 ## STATS SECTION
 
-• 25-50% more phone calls within 60 days
+• 25-50% more phone calls within 90 days
 • 35-70% more website clicks from searches
 • 15-30% less price resistance on quotes
 • Win the 4-minute decision your competitors lose
@@ -39,7 +39,7 @@ John's boss drops an urgent project. 11:56 AM. He has 4 minutes before lunch.
 Google Maps → searches for contractors → opens 5 businesses with solid reviews
 
 **Step 2: The Elimination (2 minutes)**
-Checks Google profile, website, social media for signs of life. Dead profiles? Tab closed.
+Checks Google profile, website, social media for signs of life. Look dead? Tab closed.
 
 **Step 3: The Final Test (1 minute)**
 Down to 2 businesses that "feel right." Fresh content. Active presence. Legitimate.
@@ -57,13 +57,13 @@ He calls the two that passed the test. The other three never knew he existed.
 
 **How It Works:**
 
-1. **Planning Calls** — Twice monthly, we spend 15 minutes planning your next 6-8 content pieces with capture dates assigned. You know exactly what to film.
+1. **Planning Calls** — Twice monthly, we spend time planning your content. You know exactly what to do. Easy
 
-2. **You Capture** — Film 10 minutes per week. Real work. Your phone. Your location. Upload via form. You're done.
+2. **You Capture** — Capture 10-20 minutes per week. Real work. Your phone. Upload. You're done.
 
-3. **We Create** — Professional editing, captions, strategy, scheduling. Your authentic moments become compelling content across Google, Facebook, Instagram, and LinkedIn.
+3. **We Create** — Professional editing, captions, strategy, scheduling. Your authentic content generates trust across Google, social media, and more.
 
-4. **Content Goes Live** — Automatic posting. We monitor performance and adjust your strategy based on what's working.
+4. **Content Goes Live** — Scheduled posting. We monitor performance and adjust your strategy based on what's working.
 
 **Result:** You stay visible during the 4-minute window when prospects are deciding.
 
@@ -73,11 +73,11 @@ He calls the two that passed the test. The other three never knew he existed.
 
 **Headline:** Everything You Need to Win the 4-Minute Decision
 
-**Subheadline:** A complete system that builds visibility, trust, and revenue over time
+**Subheadline:** A complete system that builds visibility, trust, and revenue
 
-1. **You Capture, We Create** — 3+ professionally edited posts weekly (2 videos + 1 additional content) that build authentic trust with prospects
+1. **You Capture, We Create** — Weekly posts that build authentic trust with prospects
 
-2. **Digital Pulse Management** — 156+ pieces of professional content annually across Google Business Profile, Facebook, Instagram, and LinkedIn—not vanity metrics, real visibility
+2. **Digital Pulse Management** — 156+ pieces content annually across seach and social profiles—real visibility
 
 3. **Brand Pillars Foundation** — Free strategic document ($1,500 value) that aligns your website, social content, Google optimization, and messaging. No guesswork.
 
@@ -87,11 +87,11 @@ He calls the two that passed the test. The other three never knew he existed.
 
 6. **Review Generation System** — Proven system to build fresh, positive reviews. Training and coaching included.
 
-7. **Platform Optimization** — Professional setup and consistent branding across Google Business, Facebook, Instagram, LinkedIn, and your website.
+7. **Platform Optimization** — Professional setup and consistent branding everywhere you are. (Website optimization available too)
 
-8. **Mobile-First Link Strategy** — Optimized link landing page that converts traffic into inquiries and calls.
+8. **Mobile-First Link Strategy** — Optimized bio-link landing page that converts traffic into inquiries and calls.
 
-9. **Strategy Sessions** — Bi-weekly 15-minute planning calls. We keep you on track.
+9. **Strategy Sessions** — Bi-weekly planning calls. No project management on your part. We help keep you on track.
 
 ---
 
@@ -108,7 +108,7 @@ He calls the two that passed the test. The other three never knew he existed.
 - Higher quote acceptance rates (less price resistance)
 
 **Content We'll Create Together:**
-Behind-the-scenes work, customer wins, team introductions, before/after reveals, process demonstrations, tips & expertise, community involvement, equipment spotlights
+Behind-the-scenes work, customer wins, team introductions, before/after reveals, process demonstrations, tips & expertise, community involvement, equipment spotlights, and more
 
 ---
 
@@ -181,7 +181,7 @@ Everything in Winner PLUS all 9 Components for market dominance
 
 **Headline:** Ready to Stop Losing Those Calls?
 
-**Body:** Most businesses lose 2-5 qualified prospects every month to the 4-minute test. See if our "You Capture, We Create" system can fix your invisibility problem.
+**Body:** Most businesses lose 8-15 qualified prospects every month to the 4-minute test. See if our "You Capture, We Create" system can fix your invisibility problem.
 
 **Phone:** (567) 333-8779
 **CTA:** Schedule Your Free Business Assessment
