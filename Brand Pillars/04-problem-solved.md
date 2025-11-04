@@ -13,7 +13,7 @@ Every day, potential customers ("Johns") spend exactly **4 minutes** deciding wh
 1. Open 5 businesses on Google Maps
 2. Check social media for signs of life
 3. Eliminate 3 based on dead profiles
-4. Call only 2
+4. Call only 1 or 2
 
 **80% of businesses fail this test daily and never know it happened.**
 
